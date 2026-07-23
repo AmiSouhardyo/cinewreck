@@ -1,0 +1,6 @@
+{
+  "name": "cinewreck",
+  "description": "cinewreck - Cyberpunk movie discovery engine. Enter your favourite movies to receive personalized cinema recommendations with ratings, plots, trailers, and custom AI insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
