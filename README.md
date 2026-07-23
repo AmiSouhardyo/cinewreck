@@ -1,20 +1,4 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+cinewreck is an LLM-powered movie recommendation system that helps your find your next best watch. Add your favourite movies and let our engine work on helping you find the movie you want to watch today. 
+It utilizes the OMDb database for finding the movies and the Llama-3.3-70B-Versatile LLM for generating recommendations. 
+There's also an option to find more niche movies based on your taste.
 
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/0bfd25fa-ddcb-4864-bc5e-9ecd28267123
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
